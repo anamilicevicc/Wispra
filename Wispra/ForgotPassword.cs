@@ -10,12 +10,16 @@ using System.Windows.Forms;
 
 namespace Wispra
 {
-    public partial class Form1 : Form
+    public partial class Forgot_Password : Form
     {
-        public Form1()
+        public Forgot_Password()
         {
             InitializeComponent();
         }
 
+        private void Forgot_Password_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
