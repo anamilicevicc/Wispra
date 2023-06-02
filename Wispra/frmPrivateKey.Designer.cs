@@ -1,7 +1,7 @@
 ﻿
 namespace Wispra
 {
-    partial class PrivateKey
+    partial class frmPrivateKey
     {
         /// <summary>
         /// Required designer variable.

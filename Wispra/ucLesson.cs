@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Wispra
 {
-    public partial class PrivateKey : Form
+    public partial class ucLesson : UserControl
     {
-        public PrivateKey()
+        public ucLesson()
         {
             InitializeComponent();
         }
